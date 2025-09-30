@@ -1,0 +1,8 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda3        98G   15G   78G  17% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.1M  506M   2% /boot/efi
+tmpfs           387M  2.4M  385M   1% /run/user/1000
+/dev/sr0        4.6G  4.6G     0 100% /media/user/Ubuntu 22.04.2 LTS amd64

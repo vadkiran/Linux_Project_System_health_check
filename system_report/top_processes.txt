@@ -1,0 +1,11 @@
+    PID    PPID CMD                         %MEM %CPU
+   1758    1593 /usr/bin/gnome-shell         8.6  6.1
+   2121    1593 /snap/snap-store/638/usr/bi  3.8  2.2
+   1370       1 /usr/libexec/packagekitd     1.1  1.7
+   3403    1593 /usr/bin/nautilus --gapplic  1.8  1.1
+    880       1 /usr/lib/snapd/snapd         1.0  1.0
+      1       0 /sbin/init splash            0.2  0.8
+   3215    1593 /usr/libexec/gnome-terminal  1.3  0.6
+     23       2 [migration/1]                0.0  0.5
+     17       2 [rcu_preempt]                0.0  0.4
+    865       1 /usr/libexec/polkitd --no-d  0.2  0.4
